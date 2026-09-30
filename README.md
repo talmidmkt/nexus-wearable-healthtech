@@ -22,8 +22,3 @@ Estrutura executiva enxuta desenhada sob a metodologia do P.O.D.C. (Planejamento
 
 ```text
 [Líder Geral / CEO] (Jean Carlos)
-         │
- ┌───────┴───────┬───────────────┬───────────────┐
- │               │               │               │
-[COO]          [CTO]           [CMO]           [CFO]
-(Pedro)     (Lucca Ayala)      (Ryan)         (Daniel)
